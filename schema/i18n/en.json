@@ -1,0 +1,10 @@
+{
+  "plugin.cloudns-dns.name": "ClouDNS",
+  "plugin.cloudns-dns.description": "ACME DNS-01 via ClouDNS.",
+  "plugin.cloudns-dns.access.authId.label": "ClouDNS API user ID",
+  "plugin.cloudns-dns.access.authId.tooltip": "For more information, see <a href=\"https://www.cloudns.net/wiki/article/42/\" target=\"_blank\">https://www.cloudns.net/wiki/article/42/</a>",
+  "plugin.cloudns-dns.access.authId.placeholder": "Please enter ClouDNS API user ID",
+  "plugin.cloudns-dns.access.authPassword.label": "ClouDNS API user password",
+  "plugin.cloudns-dns.access.authPassword.tooltip": "For more information, see <a href=\"https://www.cloudns.net/wiki/article/42/\" target=\"_blank\">https://www.cloudns.net/wiki/article/42/</a>",
+  "plugin.cloudns-dns.access.authPassword.placeholder": "Please enter ClouDNS API user password"
+}

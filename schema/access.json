@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "cloudns",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "authId",
+        "valueType": "text",
+        "labelKey": "plugin.cloudns-dns.access.authId.label",
+        "tooltipKey": "plugin.cloudns-dns.access.authId.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.cloudns-dns.access.authId.placeholder",
+        "required": true
+      },
+      {
+        "name": "authPassword",
+        "valueType": "secret",
+        "labelKey": "plugin.cloudns-dns.access.authPassword.label",
+        "tooltipKey": "plugin.cloudns-dns.access.authPassword.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.cloudns-dns.access.authPassword.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

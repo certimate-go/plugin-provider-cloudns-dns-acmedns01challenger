@@ -1,0 +1,10 @@
+{
+  "plugin.cloudns-dns.name": "ClouDNS",
+  "plugin.cloudns-dns.description": "通过 ClouDNS 完成 ACME DNS-01 验证。",
+  "plugin.cloudns-dns.access.authId.label": "ClouDNS API 用户 ID",
+  "plugin.cloudns-dns.access.authId.tooltip": "这是什么？请参阅 <a href=\"https://www.cloudns.net/wiki/article/42/\" target=\"_blank\">https://www.cloudns.net/wiki/article/42/</a>",
+  "plugin.cloudns-dns.access.authId.placeholder": "请输入 ClouDNS API 用户 ID",
+  "plugin.cloudns-dns.access.authPassword.label": "ClouDNS API 用户密码",
+  "plugin.cloudns-dns.access.authPassword.tooltip": "这是什么？请参阅 <a href=\"https://www.cloudns.net/wiki/article/42/\" target=\"_blank\">https://www.cloudns.net/wiki/article/42/</a>",
+  "plugin.cloudns-dns.access.authPassword.placeholder": "请输入 ClouDNS API 用户密码"
+}
